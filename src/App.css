@@ -1,0 +1,26 @@
+.container {
+  padding-top: 50px;
+  width: 300px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+
+.time {
+  margin: 30px auto;
+  letter-spacing: 10px;
+  font-size: 40px;
+}
+
+.btn {
+  margin: 5px;
+  outline: none;
+  text-align: center;
+  border-radius: 2px;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: 1px solid green;
+}
